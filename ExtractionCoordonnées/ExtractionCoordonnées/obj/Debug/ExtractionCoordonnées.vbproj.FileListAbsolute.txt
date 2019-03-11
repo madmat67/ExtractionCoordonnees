@@ -1,0 +1,57 @@
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.dll.config
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.pdb
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.xml
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\acdbmgd.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\acmgd.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcDx.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcDxPublishUi.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AdWindows.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcWelcomeScreen.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcMr.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcWindows.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcTcMgd.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcCui.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ManagedMC3.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\AcMNUParser.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\fr-FR\acdbmgd.resources.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\fr-FR\AcDx.resources.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\fr-FR\AcDxPublishUi.resources.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\fr-FR\AdWindows.resources.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\fr-FR\AcWelcomeScreen.resources.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\fr-FR\AcMr.resources.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\fr-FR\AcWindows.resources.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ResolveAssemblyReference.cache
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.Resources.resources
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.ExtractionCoordonnées.MyCommands.resources
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\GenerateResource.read.1.tlog
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\GenerateResource.write.1.tlog
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.dll
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.xml
+J:\Programmation\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.pdb
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.dll.config
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.dll
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.pdb
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées.xml
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ResolveAssemblyReference.cache
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.Resources.resources
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.PaletteExtractXYZ.resources
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.ExtractionCoordonnées.MyCommands.resources
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\GenerateResource.read.1.tlog
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\GenerateResource.write.1.tlog
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.dll
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.xml
+J:\Programmation\AddonEiffageCM\ExtractionCoordonnées\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.pdb
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées 1.6.dll.config
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées 1.6.dll
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées 1.6.pdb
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\bin\Debug\ExtractionCoordonnées 1.6.xml
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.vbprojResolveAssemblyReference.cache
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.vbproj.ResolveComReference.cache
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.Resources.resources
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.PaletteExtractXYZ.resources
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.ExtractionCoordonnées.MyCommands.resources
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées.vbproj.GenerateResource.Cache
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées 1.6.dll
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées 1.6.xml
+G:\Programmation\VB.Net\ExtractionCoordonnées\ExtractionCoordonnées\obj\Debug\ExtractionCoordonnées 1.6.pdb
